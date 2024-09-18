@@ -1,0 +1,164 @@
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+:root {
+  --colorwhite: #FFF;
+  --colorblack: #000;
+  --color1: #15122f;
+  --color2: #747474;
+  --color3: #c9c9c9;
+  --color4: #e8e6ff;
+  --color5: #eb8044;
+  --background: #14122c;
+  --background1: #14122b;
+  --background2: #424062;
+  --background3: #f3f2ff;
+  --font-family1: "Source Sans 3", sans-serif;
+}
+
+.hero-button-main button {
+  background: linear-gradient(269.99deg, #ec7c3e 15.27%, #e49061 117.7%);
+  min-width: 291px;
+  height: 63px;
+  padding: 0 24px;
+  border-radius: 20px;
+}
+
+.some-button button {
+  background: linear-gradient(271.4deg, #4c3eec -12.37%, #3e2df7 116.08%);
+  min-width: 291px;
+  height: 63px;
+  padding: 0 24px;
+  border-radius: 20px;
+}
+
+.something-button button {
+  background: linear-gradient(271.4deg, #322993 -12.37%, #5d54c7 116.08%);
+  min-width: 291px;
+  height: 63px;
+  padding: 0 24px;
+  border-radius: 20px;
+}
+
+.join-button button {
+  background: linear-gradient(269.99deg, #ec7c3e 15.27%, #e49061 117.7%);
+  border: none;
+  border-radius: 20px;
+  height: 63px;
+  width: 478px;
+  padding: 0 20px;
+}
+
+@keyframes laughone {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes laughtwo {
+  0% {
+    rotate: 0deg;
+  }
+  50% {
+    rotate: 15deg;
+  }
+  100% {
+    rotate: 0deg;
+  }
+}
+@keyframes mainone {
+  0% {
+    transform: translateY(o);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes maintwo {
+  0% {
+    transform: translateY(o);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes meidcinone {
+  0% {
+    transform: translateY(o);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes laughthree {
+  0% {
+    rotate: 0deg;
+  }
+  50% {
+    rotate: 15deg;
+  }
+  100% {
+    rotate: 0deg;
+  }
+}
+@keyframes laughextra {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes joyimage {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes first {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes laughscal {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}/*# sourceMappingURL=index.css.map */

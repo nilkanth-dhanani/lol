@@ -1,0 +1,56 @@
+@import '../typography/typography.scss';
+
+
+
+
+
+footer {
+
+    .footer-main {
+        background-color: var(--background1);
+        padding: 60px 0 0 0;
+
+        .image-center-align {
+            display: flex;
+            justify-content: center;
+
+            img {
+                width: 32px;
+                height: 32px;
+            }
+        }
+
+        .footer-logo {
+
+            h2 {
+                @include font24;
+                text-align: center;
+                margin: 8px 0;
+                color: var(--color5);
+            }
+
+            .footer-child-text-align {
+                display: flex;
+                justify-content: center;
+
+                p {
+                    @include font16;
+                    color: var(--color3);
+                    max-width: 261px;
+                    margin: 0;
+                    font-weight: 400;
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    .footer-background {
+        height: 297px;
+
+        img {
+            height: 100%;
+            width: 100%;
+        }
+    }
+}

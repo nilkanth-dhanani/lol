@@ -1,0 +1,32 @@
+.hero-button-main button {
+  background: linear-gradient(269.99deg, #ec7c3e 15.27%, #e49061 117.7%);
+  min-width: 291px;
+  height: 63px;
+  padding: 0 24px;
+  border-radius: 20px;
+}
+
+.some-button button {
+  background: linear-gradient(271.4deg, #4c3eec -12.37%, #3e2df7 116.08%);
+  min-width: 291px;
+  height: 63px;
+  padding: 0 24px;
+  border-radius: 20px;
+}
+
+.something-button button {
+  background: linear-gradient(271.4deg, #322993 -12.37%, #5d54c7 116.08%);
+  min-width: 291px;
+  height: 63px;
+  padding: 0 24px;
+  border-radius: 20px;
+}
+
+.join-button button {
+  background: linear-gradient(269.99deg, #ec7c3e 15.27%, #e49061 117.7%);
+  border: none;
+  border-radius: 20px;
+  height: 63px;
+  width: 478px;
+  padding: 0 20px;
+}/*# sourceMappingURL=button.css.map */
